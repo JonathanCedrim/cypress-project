@@ -1,0 +1,19 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "Projeto pessoal com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JonathanCedrim/cypress-project.git"
+  },
+  "author": "Jonathan Cedrim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanCedrim/cypress-project/issues"
+  },
+  "homepage": "https://github.com/JonathanCedrim/cypress-project#readme"
+}
